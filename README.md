@@ -1,16 +1,7 @@
 # light_switch
 
-A new Flutter project.
+A demo flutter app with a toggle switch to change the scaffold background color
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![dark](https://github.com/rohitr223/flutter_light_dark_toggle_switch/assets/81457548/7334bac3-3789-4714-b20a-bbd7b8167dc5)
+![light](https://github.com/rohitr223/flutter_light_dark_toggle_switch/assets/81457548/efd1dc3b-36ec-44c7-93f1-ec3866956a2b)
